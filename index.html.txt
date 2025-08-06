@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>sample</title>
+<body>
+<p> hello! I'm Pallavi Bandaru learning GitHUB</P>
+</body>
+</head>
+</html>
