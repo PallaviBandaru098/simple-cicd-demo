@@ -1,2 +1,2 @@
 # simple-cicd-demo
-I'm Learning GitHub
+I'm Learning CICD
